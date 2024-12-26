@@ -8,21 +8,21 @@
 
 <h2 style="text-align: center">Github stats: </h2>
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{kfox-debug}/count.svg" alt="kfox-debug :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{mike-tay1or}/count.svg" alt="mike-tay1or :: Visitor's Count" /></p>
 
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=kfox-debug&data=followers,repositories,stars,commits' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=mike-tay1or&data=followers,repositories,stars,commits' />
 </p>
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfox-debug&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="kfox-debug :: Top Langs" />
-<a href="https://github.com/kfox-debug?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=kfox-debug&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@kfox-debug's trophy stats"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-tay1or&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="mike-tay1or :: Top Langs" />
+<a href="https://github.com/mike-tay1or?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=mike-tay1or&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@mike-tay1or's trophy stats"/></a>
 </p>
 
 <p align="center">
 
-<a href="https://github.com/kfox-debug?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=kfox-debug&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@kfox-debug's github-readme-stats"/></a>
-<a href="https://github.com/kfox-debug?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=kfox-debug&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@kfox-debug's github-readme-streak-stats"/></a>
+<a href="https://github.com/mike-tay1or?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mike-tay1or&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@mike-tay1or's github-readme-stats"/></a>
+<a href="https://github.com/mike-tay1or?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mike-tay1or&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@mike-tay1or's github-readme-streak-stats"/></a>
 
 </p>
 
