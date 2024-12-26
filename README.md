@@ -34,3 +34,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pulls?username=mike-tay1or&theme=merko&hide_border=true" alt="@mike-tay1or's total pull requests" />
+</p>
+
